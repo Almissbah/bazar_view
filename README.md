@@ -19,7 +19,9 @@ Based on Flutter and Redux.
 
 ### App Specs
 * Any version of android
-* Uses storage for caching data and imgaes.
+* Uses storage for caching data and images.
+
+
 ------
 ## App link
 * [Google play](https://play.google.com/store/apps/details?id=com.almissbah.bazzar)
