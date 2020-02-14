@@ -3,7 +3,7 @@ Bazar platform has many advantages over other e-marketing platforms, it aims to 
 
 ## ScreenShots:
 
-<img src="screen1.png" width="300">  <img src="screen2.png" width="300">  <img src="screen3.png" width="300">  <img src="screen4.png" width="300">  <img src="screen5.png" width="300"> 
+<img src="screen1.png" width="300">  <img src="screen2.png" width="300">  <img src="screen3f.png" width="300">  <img src="screen4.png" width="300">  <img src="screen5.png" width="300"> 
 
 
 ## App Features
